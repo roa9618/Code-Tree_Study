@@ -8,4 +8,4 @@ for i in range(2, 10) :
     else :
         nums.append(ex)
 
-print(*[i for i in nums])
+print(*nums)
